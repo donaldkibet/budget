@@ -1,3 +1,4 @@
-# budget
+# budget react app
+![Budget CI](https://github.com/donaldkibet/budget/actions/workflows/budget.yml/badge.svg)
 
-Personal budget
+Side project for tracking personal finances 
