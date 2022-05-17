@@ -3,3 +3,4 @@
 
 yarn lint
 npx lint-staged
+yarn test
